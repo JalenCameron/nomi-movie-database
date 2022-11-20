@@ -12,7 +12,7 @@ const fourZeroFour = () => {
           <div className="error">404</div>
           <br />
           <br />
-          <span className="info">File not found</span>
+          <span className="info">Page or Movie not found</span>
         </div>
       </main>
       <Footer />
